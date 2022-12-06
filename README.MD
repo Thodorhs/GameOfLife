@@ -1,5 +1,5 @@
 # Game Of Life
-*A C programm to calculate Game Of Life simulation using OpenMP Parallelism.*
+*A C program to calculate Game Of Life simulation using OpenMP Parallelism.*
 
 # Prerequisites
 - Make
